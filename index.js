@@ -1,10 +1,10 @@
 let words = [
-    "drive", "hour", "twice", "if", "can", "use", "waste", "approval", "not",
-    "me", "stopping", "shouts", "full", "break-even", "douche", "brain", "overflow",
-    "nasty", "blur", "front", "over", "meaningful", "lady", "bounce", "contains",
-    "swedish", "final", "three", "unlimited", "sahara", "west", "park", "twelve", "by",
-    "free", "world", "sharing", "gate", "base", "foul", "bird", "evening", "rudimentary", "allow",
-    "special", "kite", "bite", "white", "lite", "enterprise", "mode", "root"
+    "can", "will", "do", "play", "show", "use", "don't", "say", "think", "start", "stop",
+    "me", "you", "I", "we", "them", "us", "society", "all",
+    "car", "bus", "door", "bicycle", "vehicle", "driver", "traffic", "stop",
+    "swedish", "nice", "slow", "fast", "red", "blue", "white", "full", "empty",
+    "free", "school", "lindholmen", "lärdomsgatan", "three", "pressbyrån", "walk", "street", "drive", "break",
+    "ok", "hello", "world", "ticket", "app", "västtrafik", "line", "pling"
 ]
 
 const randomWords = (amount) => {
