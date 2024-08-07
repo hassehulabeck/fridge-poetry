@@ -1,6 +1,6 @@
 let words = [
     "can", "will", "do", "play", "show", "use", "don't", "say", "think", "start", "stop",
-    "me", "you", "I", "we", "them", "us", "society", "all",
+    "me", "you", "I", "we", "them", "us", "repeat", "all",
     "car", "bus", "door", "bicycle", "vehicle", "driver", "traffic", "stop",
     "swedish", "nice", "slow", "fast", "red", "blue", "white", "full", "empty",
     "free", "school", "lindholmen", "lärdomsgatan", "three", "pressbyrån", "walk", "street", "drive", "break",
