@@ -1,9 +1,9 @@
 let words = [
-    "walk", "talk", "show", "play", "regret", "use", "jump", "say", "think", "break", "avoid",
+    "walk", "talk", "show", "play", "regret", "enter", "jump", "say", "think", "break", "avoid",
     "me", "you", "I", "we", "them", "us",
     "car", "bus", "door", "bicycle", "karlatornet", "vehicle", "driver", "traffic", "hållplats",
     "big", "nice", "slow", "fast", "red", "blue", "white", "full", "empty",
-    "centralstationen", "school", "lindholmen", "lärdomsgatan", "pressbyrån", "monster", "street", "drive", "break",
+    "centralstationen", "school", "lindholmen", "lärdomsgatan", "running", "monster", "street", "drive", "break",
     "delete", "hello", "world", "ticket", "app", "västtrafik", "line", "pling"
 ]
 
@@ -31,6 +31,6 @@ const populateScreen = (arr) => {
 
 
 document.addEventListener('DOMContentLoaded', () => {
-    let selectedWords = randomWords(17)
+    let selectedWords = randomWords(18)
     populateScreen(selectedWords)
 })
